@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HW5</string>
+    <string name="todo">TODO</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_description">Add Description</string>
+    <string name="save">Save</string>
+    <string name="todo2">TODO</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
 </resources>
